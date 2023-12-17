@@ -36,3 +36,20 @@ HTML, CSS, Javascript, MySQL, Php
 3. After payment, Login through email and password.
 4. View Details and Edit Batch timings in portal.
 
+### Step 4
+- How to run Project
+  1. First open XAMPP Server
+  2. Then open http://localhost/Yoga%20Form/ this link
+  3. After that registration form will open.
+  4. After submitting the form & on clicking pay 500 now button it will redirect us to payment Gateway Page
+  5. Now open http://localhost/Yoga%20Form/traineePageLogin.php this link
+ 
+### Step 5
+- Output
+![](https://github.com/anant2003/Yoga-Form/blob/main/images/Screenshot%20(24).png)
+![](https://github.com/anant2003/Yoga-Form/blob/main/images/Screenshot%20(25).png)
+![](https://github.com/anant2003/Yoga-Form/blob/main/images/Screenshot%20(26).png)
+![](https://github.com/anant2003/Yoga-Form/blob/main/images/Screenshot%20(27).png)
+![](https://github.com/anant2003/Yoga-Form/blob/main/images/Screenshot%20(28).png)
+
+  
